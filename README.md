@@ -1,4 +1,4 @@
-# Simple Web Calculator
+# Calculator
 
 A responsive web calculator built using HTML, CSS, and JavaScript. This project demonstrates basic arithmetic operations with a user-friendly interface that adapts to different screen sizes.
 
